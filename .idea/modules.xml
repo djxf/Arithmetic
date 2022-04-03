@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/进阶班.iml" filepath="$PROJECT_DIR$/进阶班.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArithmeticDome.iml" filepath="$PROJECT_DIR$/ArithmeticDome.iml" />
     </modules>
   </component>
 </project>
