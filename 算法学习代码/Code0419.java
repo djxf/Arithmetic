@@ -12,7 +12,7 @@ package 算法学习代码;
  */
 public class Code0419 {
     public static void main(String[] args) {
-        System.out.println(isExpct("fd", ".*fd"));
+        System.out.println(isExpct("fd", ".****fd"));
     }
 
     /**
