@@ -26,7 +26,7 @@ package 思考与练习;
  *
  *     9.如何获取 View 宽高?
  *
- *     10.一个view的宽和高是由什么决定！
+ *     10.一个view的宽和高是由什么决定?
  *
  *     11.getWidth() （ getHeight()）与 getMeasuredWidth() （getMeasuredHeight()）获取的宽 （高）有什么区别？
  *
@@ -42,10 +42,8 @@ package 思考与练习;
  *
  *     17.如何优化自定义View？
  *
- *     18.veiw状态的保持
+ *     18.veiw状态的保持?
  *
- *      作者：鹏城十八少
- *      链接：https://www.jianshu.com/p/55cc8b268bcb
  *
  */
 public class Consider0515 {
